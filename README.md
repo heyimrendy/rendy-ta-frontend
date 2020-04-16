@@ -1,6 +1,8 @@
 # rendy-ta-frontend
 Frontend ta
 
-1. Put into htdocs folder
-2. Open http://localhost/rendy-ta/
-3. Insert test id from "backend folder/datafacebook/Kompas"
+1. Create folder rendy-ta
+2. Clone repo into this folder
+3. Put into htdocs folder
+4. Open http://localhost/rendy-ta/
+5. Insert test id from "backend folder/datafacebook/Kompas"
